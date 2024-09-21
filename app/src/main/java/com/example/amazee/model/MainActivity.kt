@@ -1,4 +1,4 @@
-package com.example.amazee
+package com.example.amazee.model
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
